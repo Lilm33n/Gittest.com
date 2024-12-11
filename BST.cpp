@@ -12,7 +12,7 @@ template<class T>
 Tree<T>::Tree() {
 	size = 0;
 	root = NULL;
-	left = null;
+	
 
 }
 template<class T>
