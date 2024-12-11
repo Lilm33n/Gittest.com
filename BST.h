@@ -6,7 +6,7 @@ class TreeNode {
 public:
 	TreeNode<T>* left;
 	TreeNode<T>* right;
-	
+	T data;
 	TreeNode(T v);
 };
 
