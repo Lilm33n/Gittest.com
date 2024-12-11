@@ -1,0 +1,4 @@
+#ignore all txt
+#ignore all files with .file extension
+*.tlog
+*.vsidx
