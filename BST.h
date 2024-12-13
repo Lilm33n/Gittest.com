@@ -7,6 +7,8 @@ public:
 	TreeNode<T>* left;
 	TreeNode<T>* right;
 	T data;
+	cout << "wait what?";
+	cout << "hmmmmmm";
 	TreeNode(T v);
 };
 
