@@ -7,6 +7,7 @@ public:
 	TreeNode<T>* left;
 	TreeNode<T>* right;
 	T data;
+	cout << "wait what?";
 	TreeNode(T v);
 };
 
